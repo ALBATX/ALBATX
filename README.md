@@ -36,5 +36,5 @@ print(stack.serialize())
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>“Yenilmedim savaştayım ne sondayım ne baştayım”</b> :)</em>
 
-![ALBATX's github stats](https://github-readme-stats.vercel.app/api?username=PlutonLib&theme=dark&show_icons=true)
+![ALBATX's github stats](https://github-readme-stats.vercel.app/api?username=ALBATX&theme=dark&show_icons=true)
 
