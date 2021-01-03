@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: HackinGuide](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/hackinguide)
-[![GitHub ALBAT](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ALBATX)
+[![Twitter: HackinGuide](https://img.shields.io/twitter/follow/hackinguide?style=social)](https://twitter.com/hackinguide)
+[![GitHub ALBAT](https://img.shields.io/github/followers/ALBATX?label=follow&style=social)](https://github.com/ALBATX)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
