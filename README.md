@@ -1,0 +1,37 @@
+<h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.hizliresim.com/XH4DkX.jpg" width="230">
+<p><em>Software Enginner at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: HackinGuide](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/hackinguide)
+[![GitHub ALBAT](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ALBATX)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<h3>
+    
+```python
+​
+import json
+from dataclasses import asdict, dataclass
+
+
+@dataclass
+class Stack:
+    languages   : tuple = ("Python", "Bash")
+    databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
+    misc        : tuple = ("Docker", "Celery")
+    ongoing     : tuple = ("Django", "GraphQL", "JavaScript")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+
+
+stack = Stack()
+print(stack.serialize())
+​
+```
+</h3>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
