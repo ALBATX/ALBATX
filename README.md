@@ -1,5 +1,5 @@
 <h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.hizliresim.com/XH4DkX.jpg" width="230">
+<img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 <p><em>Software Enginner at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -19,10 +19,10 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    languages   : tuple = ("Python", "Bash")
+    code        : tuple = ("Javascript", "C#", "HTML", "CSS")
     databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Docker", "Celery")
-    ongoing     : tuple = ("Django", "GraphQL", "JavaScript")
+    misc        : tuple = ("Visual Studio Code", "XenForo")
+    ongoing     : tuple = ("C++", "PHP", "QT")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
