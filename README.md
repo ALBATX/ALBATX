@@ -36,5 +36,8 @@ print(stack.serialize())
 
 ![ALBATX's github stats](https://github-readme-stats.vercel.app/api?username=ALBATX&theme=dark&show_icons=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALBATX&layout=compact https://github.com/anuraghazra/github-readme-stats" /></p>
+<br/><br/>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>“Yenilmedim savaştayım ne sondayım ne baştayım”</b> :)</em>
