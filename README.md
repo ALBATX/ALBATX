@@ -1,6 +1,6 @@
 <h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
-<p><em>Software Enginner at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web Expert at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: HackinGuide](https://img.shields.io/twitter/follow/hackinguide?style=social)](https://twitter.com/hackinguide)
