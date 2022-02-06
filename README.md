@@ -2,7 +2,9 @@
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
 ### Founder & CEO at Partivo
+<font color="pink">Yenilmeyi bi' bilsen olur seninle şans, </em> `<feature>` :imp: </font>
 #
+
 ### Spotify Playing :notes:
 [![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96)
 <br/>
