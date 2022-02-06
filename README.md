@@ -6,7 +6,8 @@
 #
 
 ### Spotify Playing :notes:
-[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96) <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="150">
+[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96) 
+<img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="140">
 <br/>
 <h2>
 
