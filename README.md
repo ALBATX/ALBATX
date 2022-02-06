@@ -1,7 +1,7 @@
 <h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/l1J9rgKXAD9BpO1sk/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
-### Founder & CEO at Partivo
+### Founder & CEO at Partivo Company
 <font color="pink">Yenilmeyi bi' bilsen olur seninle şans, </em> `<feature>` :heart: </font>
 #
 
