@@ -1,4 +1,4 @@
-<h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/3ohhwyiB8a06gIuIoM/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/l1J9rgKXAD9BpO1sk/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 Founder & CEO at <a href="https://partivo.net/">Partivo</a>
 
