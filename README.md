@@ -25,7 +25,7 @@ from dataclasses import asdict, dataclass
 class Stack:
     code        : tuple = ("Javascript", "PHP", "HTML", "CSS")
     databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Network", "XenForo Theme Dev")
+    misc        : tuple = ("Network", "XenForo")
     ongoing     : tuple = ("C++", "C", "QT")
 
     def serialize(self):
