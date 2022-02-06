@@ -2,6 +2,7 @@
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 ### Founder & CEO at Partivo
 
+#
 
 
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
