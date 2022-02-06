@@ -23,10 +23,10 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    code        : tuple = ("Javascript", "C#", "HTML", "CSS")
+    code        : tuple = ("Javascript", "PHP", "HTML", "CSS")
     databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Visual Studio Code", "XenForo")
-    ongoing     : tuple = ("C++", "PHP", "QT")
+    misc        : tuple = ("Network", "XenForo Theme Dev")
+    ongoing     : tuple = ("C++", "C", "QT")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
