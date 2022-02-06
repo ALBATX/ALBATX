@@ -1,7 +1,6 @@
 <h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
-</br>Founder & CEO at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</br>Founder & CEO at <a href="https://partivo.net/">Partivo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
