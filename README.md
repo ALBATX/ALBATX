@@ -4,6 +4,7 @@
 ### Founder & CEO at Partivo
 
 <h3>
+[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96)
 
 
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
@@ -32,7 +33,5 @@ print(stack.serialize())
 ​
 ```
 </h3>
-
-[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96)
 
 
