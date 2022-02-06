@@ -34,4 +34,6 @@ print(stack.serialize())
 ```
 </h3>
 
-<em><b>“Yenilmedim savaştayım ne sondayım ne baştayım”</b> :)</em>
+[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96)
+
+
