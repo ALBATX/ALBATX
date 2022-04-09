@@ -23,13 +23,10 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    code        : tuple = ("Javascript", "PHP", "HTML", "CSS")
-    databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Network", "XenForo")
-    ongoing     : tuple = ("C++", "C", "QT")
+    founder     : tuple = ("www.partivo.net")
 
     def serialize(self):
-        return json.dumps(asdict(self), indent=4)
+        return json.dumps(asdict(self), indent=1)
 
 
 stack = Stack()
