@@ -2,7 +2,7 @@
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
 ### Founder & CEO at Partivo Company
-<font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> `<feature>` :heart: </font>
+<font color="pink"></em> `<Frontend Developer>` :heart: </font>
 #
 
 ### Spotify Playing :notes:
