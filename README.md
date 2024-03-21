@@ -1,4 +1,3 @@
-<img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
 ### Founder & CEO at Partivo Company
 #
